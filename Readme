@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou o Elvis Reis</h1>
+<h1 alig="center">👋 Olá! Eu sou o Elvis Reis</h1>
 
-<p align="center"><strong>Desenvolvedor Web | Apaixonado por Tecnologia e Inovação</strong><br>
+<p alig="center"><strong>Desenvolvedor Web | Apaixonado por Tecnologia e Inovação</strong><br>
 <em>HTML • CSS • JavaScript • Python • AWS</em></p>
 
 ---
@@ -15,7 +15,7 @@ Estou sempre em busca de aprender, crescer e entregar o melhor resultado possív
 
 ## 🧠 Tecnologias
 
-<div align="center">
+<div alig="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
@@ -31,7 +31,7 @@ Estou sempre em busca de aprender, crescer e entregar o melhor resultado possív
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div alig="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisReis2K&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ElvisReis2K&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -43,7 +43,7 @@ Estou sempre em busca de aprender, crescer e entregar o melhor resultado possív
 
 ## 🤝 Vamos nos conectar!
 
-<p align="center">
+<p alig="center">
   <a href="https://www.linkedin.com/in/elvis-reis-92165b1b0/" target="_blank">
     <img src="https://img.shields.io/badge/-Elvis%20Reis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -51,6 +51,6 @@ Estou sempre em busca de aprender, crescer e entregar o melhor resultado possív
 
 ---
 
-<p align="center">
+<p alig="center">
   <img src="https://komarev.com/ghpvc/?username=ElvisReis2K&style=flat-square&color=orange" alt="Profile views">
 </p>
