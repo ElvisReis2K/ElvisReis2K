@@ -1,1 +1,43 @@
 
+<h1 align="center">👋 Olá! Seja bem-vindo ao meu Perfil!!</h1>
+
+---
+
+### 📌 Sobre mim:
+
+Sou um desenvolvedor focado em criar soluções modernas, eficientes e visualmente atrativas.  
+Tenho experiência com **HTML, CSS, JavaScript, Python** e **computação em nuvem com AWS**.  
+Estou sempre em busca de aprender, crescer e criar.
+
+> 🧠 _"Transformando desafios em soluções digitais com propósito. Para mim, desenvolver software é impactar vidas através da tecnologia 🚀."_
+---
+
+### 🚀 Tecnologias que estou estudando e trabalhando no momento:
+
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/kotlin-%23752FFF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Context API](https://img.shields.io/badge/Context--API-%2361DAFB.svg?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![ElvisReis2K GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElvisReis2K&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisReis2K&layout=compact)
+
+---
+
+### 🤝 Vamos nos conectar
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-reis-92165b1b0/)
+
+
